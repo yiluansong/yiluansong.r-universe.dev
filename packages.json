@@ -1,6 +1,7 @@
 [
     {
         "package": "BatchPlanet",
-        "url": "https://github.com/zhulabgroup/BatchPlanet"
+        "url": "https://github.com/zhulabgroup/BatchPlanet",
+        "branch": "release"
     }
 ]
